@@ -29,37 +29,39 @@
 }
 
 .chart-container {
-  position: relative;
+  position: absolute;
   margin: auto;
   height: 30vh;
   width: 30vw;
-  top: -15px;
+  top: 6%;
+  left: 34%;
 }
 
 .chart-container2 {
-  position: relative;
+  position: absolute;
   margin: auto;
   height: 50vh;
   width: 50vw;
-  top: 10px;
+  top: 17%;
+  left: 24%;
 }
 
 .userInput {
-  position: relative;
-  top: 400px;
-  left: 550px;
+  position: absolute;
+  top: 70%;
+  left: 44%;
 }
 
 .homeScreen {
-  position: relative;
-  top: 50px;
-  left: 482px;
+  position: absolute;
+  top: 18%;
+  left: 39%;
 }
 
 .lowerBar {
   position: absolute;
-  top: 420px;
-  left: 427px;
+  top: 73%;
+  left: 34.5%;
 }
 @keyframes App-logo-spin {
   from {
