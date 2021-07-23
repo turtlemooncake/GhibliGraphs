@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GhibliGraphs/static/css/main.15a28376.chunk.css",
+    "main.js": "/GhibliGraphs/static/js/main.a8f5c98a.chunk.js",
+    "main.js.map": "/GhibliGraphs/static/js/main.a8f5c98a.chunk.js.map",
+    "runtime-main.js": "/GhibliGraphs/static/js/runtime-main.36a09666.js",
+    "runtime-main.js.map": "/GhibliGraphs/static/js/runtime-main.36a09666.js.map",
+    "static/js/2.a85bc5a7.chunk.js": "/GhibliGraphs/static/js/2.a85bc5a7.chunk.js",
+    "static/js/2.a85bc5a7.chunk.js.map": "/GhibliGraphs/static/js/2.a85bc5a7.chunk.js.map",
+    "static/js/3.918ba6ba.chunk.js": "/GhibliGraphs/static/js/3.918ba6ba.chunk.js",
+    "static/js/3.918ba6ba.chunk.js.map": "/GhibliGraphs/static/js/3.918ba6ba.chunk.js.map",
+    "index.html": "/GhibliGraphs/index.html",
+    "static/css/main.15a28376.chunk.css.map": "/GhibliGraphs/static/css/main.15a28376.chunk.css.map",
+    "static/js/2.a85bc5a7.chunk.js.LICENSE.txt": "/GhibliGraphs/static/js/2.a85bc5a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a09666.js",
+    "static/js/2.a85bc5a7.chunk.js",
+    "static/css/main.15a28376.chunk.css",
+    "static/js/main.a8f5c98a.chunk.js"
+  ]
+}
